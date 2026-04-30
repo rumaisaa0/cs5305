@@ -1,20 +1,33 @@
-langchain 
-langchain_community 
-langchain-openai 
+langchain
+langchain_core
+langchain_community
+langchain-openai
+langchain-azure-ai
+azure-identity
+langchain-text-splitters
+langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
+langgraph-prebuilt
+langchain-mcp-adapters
+langgraph-cli[inmem]
+langchain-ollama
+<<<<<<< HEAD
+scikit-learn
+=======
+duckduckgo-search
 scikit-learn 
-langchain-ollama  
+>>>>>>> 070a477 (updated list of packages)
 requests
 ipykernel
 chromadb
 bs4
 python-dotenv
 ipywidgets
-langgraph-checkpoint-sqlite
-langgraph-checkpoint-postgres
 tavily
 sounddevice
 pypdf
 fastmcp
 mlflow
-langchain-mcp-adapters
+nbconvert
+grandalf
 
